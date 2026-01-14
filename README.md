@@ -69,7 +69,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-##  4. Google Cloud Configuration
+###  4. Google Cloud Configuration
 
 Create a project in Google Cloud Console
 
@@ -80,10 +80,10 @@ Enable:
 - Create OAuth Client (Desktop App)
 - Download credentials.json and place in /credentials
 
-## 5. Configure Spreadsheet ID
+### 5. Configure Spreadsheet ID
 Add your Google Sheet ID inside config.py
 
-## 6. Run the script
+### 6. Run the script
 ```bash
 python src/main.py
 ```
