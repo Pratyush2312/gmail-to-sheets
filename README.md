@@ -55,7 +55,7 @@ gmail-to-sheets/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Pratyush2312/gmail-to-sheets
 cd gmail-to-sheets
 ```
 
